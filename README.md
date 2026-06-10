@@ -1,5 +1,5 @@
 # Air Quality Monitoring System
-
+Project URL : https://wokwi.com/projects/466415943615060993
 ## Project Overview
 
 The Air Quality Monitoring System is an Arduino-based embedded project that monitors air quality using an MQ-135 gas sensor. Since Wokwi does not currently support MQ-135 simulation, a potentiometer is used to simulate varying air quality levels. The measured values are displayed on an LCD and logged through the Serial Monitor.
